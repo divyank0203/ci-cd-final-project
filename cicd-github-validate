@@ -1,0 +1,8 @@
+Divyank@LAPTOP-4PK0Q4FM MINGW64 ~/Documents/GitHub/ci-cd-final-project (main)
+$ gh run list
+STATUS  TITLE                                 WORKFLOW     BRANCH  EVENT  ID           ELAPSED  AGE
+✓       Add Jest testing step to CI workflow  CI workflow  main    push   32823231036  20s      about 14 minutes ago
+✓       Enhance CI workflow with ESLint step  CI workflow  main    push   32823095091  18s      about 15 minutes ago
+✓       CI workflow                           CI workflow  main    push   32822981807  16s      about 17 minutes ago
+X       readme update                         CI workflow  main    push   32637673218  0s       about 1 day ago
+X       Initial commit                        CI workflow  main    push   32636354239  0s       about 1 day ago
